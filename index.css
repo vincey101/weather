@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(to right,rgb(0, 174, 255),rgb(0, 110, 255),rgb(111, 0, 255));
+    padding: 20px;
+
+}
+
+.humidity{
+    text-align: right;
+}
+
+.temp{
+    display: flex;
+    justify-content: space-evenly;
+}
